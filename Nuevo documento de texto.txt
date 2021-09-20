@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola mundo 
+=======
+hola mundo desde mi servidor
+>>>>>>> 6387f0390d4e29716115c18fc9cf0534ed3d5598
